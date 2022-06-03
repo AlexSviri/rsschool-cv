@@ -1,1 +1,1 @@
-[GitHub - AlexSviri](https://GITHUB-AlexSviri.github.io/rsschool-cv/cv)
+[GitHub - AlexSviri](https://github.com/AlexSviri/rsschool-cv/blob/gh-pages/cv.md)
