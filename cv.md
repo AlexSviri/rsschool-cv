@@ -13,7 +13,7 @@
 
 ## About me
 
-Hello everyone, my goal is to achieve excellent results in programming and to be very useful and in demand in this matter. I want to learn how to write great code, I really want to change my profession. Since I work in the administration of St. Petersburg, I have to work very hard, while I devote all my free time to programming. At Frontend, I liked that you can see the result of work instantly, as soon as you have written something, it is very motivating to write further, I have a great desire to succeed in this area.
+I am currently learning to program (Frontend development). My goal is to learn as much as possible in programming. I like to spend all my free time at the computer studying and learning something new. My main strengths are problem solving and the ability to find compromises. I want to gain so much knowledge and skills that I could achieve great success in this business.
 
 ## Skills
 1.Html(basics)
