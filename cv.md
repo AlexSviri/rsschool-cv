@@ -1,4 +1,4 @@
-![My photo](https://github.com/AlexSviri/rsschool-cv/blob/gh-pages/jpg/photo.jpg)
+![My photo](https://github.com/AlexSviri/rsschool-cv/blob/27968e1425fc6e5d2a148d3e18eabccab76612cb/jpg/photo.jpg)
 # Alexandr Sviridenko
 
 ## Contacts

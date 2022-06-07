@@ -1,1 +1,1 @@
-https://AlexSviri.github.io/rsschool-cv/
+https://github.com/AlexSviri/rsschool-cv/blob/27968e1425fc6e5d2a148d3e18eabccab76612cb/cv.md
