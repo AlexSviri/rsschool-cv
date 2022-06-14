@@ -1,1 +1,5 @@
-https://github.com/AlexSviri/rsschool-cv/blob/rsschool-cv-html/cv.md
+
+
+# <https://AlexSviri.github.io/rsschool-cv/cv>
+# <https://AlexSviri.github.io/rsschool-cv/>
+
