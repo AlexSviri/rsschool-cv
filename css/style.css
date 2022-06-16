@@ -84,4 +84,7 @@ body {
     color: #5d7260;
   }
   
-
+.footer-conteiner {
+  display: flex;
+  justify-content: space-between;
+}
