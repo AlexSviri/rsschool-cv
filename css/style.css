@@ -1,0 +1,218 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    font-family: 'Aleo', serif;
+    font-family: 'Red Hat Text', sans-serif;
+}
+
+.header {
+    height:90px;
+    display: flex;
+    background: rgba(242, 120, 92, 0.7);
+    box-shadow: 0px 4px 4px rgba(13, 96, 111, 0.5);
+    
+}
+
+.header__logo-link {
+    margin-left: 120px;
+}
+
+.navigation {
+    margin: 35px 196px 34px 158px;
+}
+
+
+.wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+
+}
+
+.navigation {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header__list{
+    list-style-type: none;
+    margin-right: 42px;
+    
+}
+
+.header__logo-link {
+    width: 180px;
+    height: 31px;
+}
+
+.header__link {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.button__login {
+    width: 103px;
+    height: 41px;
+    background: #0D606F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+    border: none;
+}
+
+/*header settings*/
+
+/*intro settings*/
+
+.intro__container{
+    max-width: 1200px;
+}
+
+.intro {
+    padding-top: 122px;
+    height: 765px;
+    background: url(../jpg/intro-bg.jpg) no-repeat;
+    position: relative;
+    margin-top: -90px;
+    z-index: -1;
+
+}
+
+.intro__title {
+    
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 96px;
+    color: #FFFFFF;
+}
+
+.intro__text{
+    font-family: 'Aleo';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    position: relative;
+    margin-top: 46px;
+    margin-bottom: 46px;
+    
+}
+
+.wrapper__intro{
+    margin-left: 120px;
+    max-width: 892px;
+    max-height: 422px;
+}
+
+
+.form__intro{
+    margin-top: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 892px;
+    height: 95px;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 16px;
+}
+
+
+
+
+
+.button__intro{
+    width: 228px;
+    height: 59px;
+    background: #0D606F;
+    box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+    border: none;
+    margin: 18px 18px 18px 18px ;  
+}
+
+ .form__intro ::placeholder{
+
+    font-family: 'Aleo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #F2785C;
+    
+    
+    
+ }
+
+ .form__intro input {
+    border: none;
+    background: none;
+    width: 560px;
+    height: 22px;
+    margin: 32px 45px 41px 41px;
+
+ }
+ 
+
+
+/* 3 steps*/
+
+.steps {
+    width: 1440px;
+    height: 440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.wrapper__steps {
+    width: 1177px;
+    height: 247px;
+}
+
+.title__steps{
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 53px;
+    color: #F2785C;
+    text-transform: uppercase;
+}
+
+.wrapper__steps__title {
+    display: flex;
+    justify-content: center;
+    height: 53px;
+    margin-bottom: 40px;
+
+}
