@@ -29,6 +29,7 @@ body {
 
 
 .wrapper {
+    overflow: hidden;
     max-width: 1440px;
     margin: 0 auto;
 }
@@ -58,6 +59,7 @@ body {
 }
 
 .header__link {
+    text-decoration:none;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -200,6 +202,7 @@ body {
 }
 
 .title__steps{
+    text-align: center;
     font-family: 'Red Hat Text';
     font-style: normal;
     font-weight: 500;
@@ -207,12 +210,189 @@ body {
     line-height: 53px;
     color: #F2785C;
     text-transform: uppercase;
+    margin-bottom: 40px;
 }
 
-.wrapper__steps__title {
+.steps__item {
     display: flex;
-    justify-content: center;
-    height: 53px;
+    
+}
+
+.bicucle {
+    margin: 0 auto;
+    width: 247px;
+    height: 154px;
+}
+
+.calculate {
+    margin: 0 auto;
+    width: 250px;
+    height: 154px;
+}
+.jet {
+    margin: 0 auto;
+    width: 317px;
+    height: 154px;
+}
+
+.text__steps {
+    
+    margin-top: 30px;
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #0D606F;
+    
+}
+
+.logo__steps{
+    margin-left: 80px;
+}
+
+
+/*dest section*/
+
+.title__destinations {
+    margin-left: 450px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 53px;
+    color: #F2785C;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.wrapper__destinations {
+    
+    width: 2520px;
+    height: 1042px;
+}
+
+.slider__destinations {
+    display: flex;
+    width: 2520px;
+    height: 800px;
+    margin-left: -595px;
+    margin-bottom: 24px;
+}
+
+.destinations__spain{
+    border-radius: 16px;
+    margin-left: 60px;
+    width: 800px;
+    height: 800px;
+    background:url(../jpg/Destination_spain.jpg) no-repeat;
+
+}
+
+.destinations__japan{
+    border-radius: 16px;
+    margin-left: 60px;
+    width: 800px;
+    height: 800px;
+    background:url(../jpg/Destination_japan.jpg) no-repeat;
+}
+
+.destinations__usa{
+    border-radius: 16px;
+    margin-left: 60px;
+    width: 800px;
+    height: 800px;
+    background:url(../jpg/Destination_usa.jpg) no-repeat;
+}
+
+.text__destinations{
+    margin: 718px 677px 40px 15px;
+    width: 108px;
+    height: 42px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+
+.radio__button{
+    margin-left: 681px;
+    margin-bottom: 40px;
+}
+.left__radio{
+    border: none;
+    width: 20px;
+    height: 20px;
+    accent-color: rgba(242, 120, 92, 0.5); 
+}
+
+.centr__radio{
+    border: none;
+    width: 20px;
+    height: 20px;
+    accent-color: #F2785C;; 
+    
+}
+
+.right__radio{
+    border-radius: 0px;
+    border: none;
+    width: 20px;
+    height: 20px;
+    accent-color: rgba(242, 120, 92, 0.5); 
+}
+
+
+.left__custom {
+    
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    accent-color: rgba(242, 120, 92, 0.5);
+}
+
+.button__destinations{
+    width: 228px;
+    height: 59px;
+    background: #0D606F;
+    box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+    border-radius: 10px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+    border: none;
+    margin: 18px 18px 18px 600px ;  
+}
+
+.button__destinations::before {
+    content:url(../logo/Vector.svg);
+
+    width: 35px;
+    height: 22.5px;
+
+    padding-right: 12.5px;
+    padding-bottom: 2px;
+}
+
+
+
+.title__stories{
+    margin-top: 80px;
+    margin-left: 552px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 53px;
+    color: #F2785C;
+    text-transform: uppercase;
     margin-bottom: 40px;
 
 }
